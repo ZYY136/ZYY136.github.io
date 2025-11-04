@@ -13,6 +13,8 @@ He Graduated from [Hefei No.1 High School](http://www.hfyz.net/) in June 2022.
 
 He was born on July 26th, 2005 in [Hefei](https://en.wikipedia.org/wiki/Hefei), China.
 
+Here is his [CV]().
+
 Research interests
 ======
 I am interested in Information Security. I dream of making more contribution to the world by ensuring data security.
