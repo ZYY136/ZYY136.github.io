@@ -33,6 +33,8 @@ Advisor: [Prof Jie Wang](https://miralab.ai/people/jie-wang/)
 
 Selected Awards
 ------
+Talent Student Copper Scholarship of USTC, 2025
+
 Talent Student Silver Scholarship of USTC, 2024
 
 Talent Student Copper Scholarship of USTC, 2023
