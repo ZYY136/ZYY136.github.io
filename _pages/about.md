@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Yuyang joined the School of the Gifted Young of USTC in September 2022, he is expected to obtain Bachelor degreed ([honored](https://www.teach.ustc.edu.cn/education/edu-elite/4569.html)) in Artificial Intelligence Elite Class in School of Information Science and Technology.
+Yuyang joined the School of the Gifted Young of University of Science and Technology of China(USTC) in September 2022, he is expected to obtain Bachelor degreed ([honored](https://www.teach.ustc.edu.cn/education/edu-elite/4569.html)) in Artificial Intelligence Elite Class in School of Information Science and Technology.
 
 He Graduated from [Hefei No.1 High School](http://www.hfyz.net/) in June 2022.
 
