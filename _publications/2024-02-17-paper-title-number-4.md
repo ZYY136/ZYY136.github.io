@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 venue: 'International Conference on Learning Representations'
 excerpt: 'This paper is about detecting and attributing AI-assisted image editing.'
-date: 2025-09-17
+date: 2026-01-22
 paperurl: 'https://arxiv.org/pdf/2510.01173'
 ---
 
