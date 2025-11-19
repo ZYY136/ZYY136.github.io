@@ -1,8 +1,8 @@
 ---
-title: "EditTrack: Detecting and Attributing AI-assisted Image Editing(Under Review in ICLR 2026)"
+title: "EditTrack: Detecting and Attributing AI-assisted Image Editing(Under Review in CVPR 2026)"
 collection: publications
 category: conferences
-venue: 'International Conference on Learning Representations'
+venue: 'IEEE Conference on Computer Vision and Pattern Recognition'
 excerpt: 'This paper is about detecting and attributing AI-assisted image editing.'
 date: 2026-01-22
 paperurl: 'https://arxiv.org/pdf/2510.01173'
