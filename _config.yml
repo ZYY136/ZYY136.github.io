@@ -26,11 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "Yuyang Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "An incoming PhD student in Informatics at Penn State"
-  location         : "Hefei, Anhui, China"
-  employer         : "University of Science and Technology of China"
+  bio              : "A PhD student in Informatics at Penn State"
+  location         : "State College, America"
+  employer         : "Pennsylvania State University"
   uri              : # URL
-  email            : "aa921350164@mail.ustc.edu.cn" 
+  email            : "yuyang.zhang@psu.edu" 
 
   # Academic websites
   academia         : # URL
